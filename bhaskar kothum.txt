@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<cinio.h>
+void main ()
+{
+int
+clrscr();
+printf("");
+scanf("");
+}
